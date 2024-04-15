@@ -1,5 +1,6 @@
 # Libraries
 LIBS=commons pthread readline m
+#LIBS=commons pthread m
 
 # Custom libraries' paths
 STATIC_LIBPATHS=
